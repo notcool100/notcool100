@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notcool100&show_icons=true&locale=en" alt="notcool100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notcool100&" alt="notcool100" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notcool100)](https://git.io/streak-stats)
 
